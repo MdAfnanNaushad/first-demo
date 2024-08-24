@@ -1,4 +1,4 @@
 # first-demo
 this is the first repository
 <br>
-Author: Md Afnan Naushad
+Author: Md Afnan khan
